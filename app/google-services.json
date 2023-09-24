@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835598756841",
+    "project_id": "robusta-roasting-e2135",
+    "storage_bucket": "robusta-roasting-e2135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835598756841:android:bc1732249699d675d3f978",
+        "android_client_info": {
+          "package_name": "com.robbyyehezkiel.robustaroasting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPkYs4YuHTyA7RJBH6j_QjvSQ9azmNuNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
